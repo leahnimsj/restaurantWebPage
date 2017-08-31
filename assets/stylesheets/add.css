@@ -1,0 +1,26 @@
+
+
+.navbar {
+  margin-bottom: 50px;
+}
+
+
+h4 {
+  margin-top: 25px;
+
+}
+
+form {
+  margin-top: 40px;
+}
+
+#buttonDiv {
+  display: flex;
+  justify-content: center;
+}
+
+#addRecordButton {
+  width: 150px;
+  background-color: grey;
+  color: white;
+}
